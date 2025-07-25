@@ -1,4 +1,4 @@
-# Unity Global Releases for Unity 2023 TS
+# Unity Global Releases for Unity 2023 Tech Stream
 
 ```
 unityhub://2023.2.20f1/0e25a174756c
